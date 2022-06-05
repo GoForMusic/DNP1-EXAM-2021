@@ -1,0 +1,12 @@
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\Models\bin\Debug\net6.0\Models.deps.json
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\Models\bin\Debug\net6.0\Models.dll
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\Models\bin\Debug\net6.0\ref\Models.dll
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\Models\bin\Debug\net6.0\Models.pdb
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\Models\obj\Debug\net6.0\Models.dll
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\Models\obj\Debug\net6.0\ref\Models.dll
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\Models\obj\Debug\net6.0\Models.pdb

@@ -1,0 +1,17 @@
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\DataAccess\bin\Debug\net6.0\ref\DataAccess.dll
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\DataAccess\bin\Debug\net6.0\Models.dll
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\DataAccess\bin\Debug\net6.0\Models.pdb
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\go\SEP3-Private\Tier3\DNP1-EXAM-2021\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
